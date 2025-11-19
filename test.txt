@@ -1,3 +1,2 @@
 this is my learning for git demoranch
 
-this is new bar
